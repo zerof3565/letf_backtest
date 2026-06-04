@@ -1,0 +1,5 @@
+To run it anytime, you can use:
+For a single ticker:
+tqqq_dd.py --ticker TQQQ
+To compare multiple tickers:
+tqqq_dd.py --compare TQQQ TECL USD SOXL UPRO
